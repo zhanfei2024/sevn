@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "description": "build with express squelize node",
+  "main": "",
+  "authors": [
+    "emcoo-40 <fei.zhan@emcoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "sequelize",
+    "node",
+    "gulp"
+  ],
+  "homepage": "https://github.com/zhanfei2024/my-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bootstrap": "^4.0.0"
+  }
+}
